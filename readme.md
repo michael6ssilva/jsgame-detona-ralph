@@ -1,7 +1,7 @@
 ## Awesome Acerte o Mike
 
 <p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img"src/images/player.png" alt="Acerte o Mike">
 </p>
 
 Bem-vindo ao **Acerte o Mike **! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
@@ -31,6 +31,6 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
----
+Todos para o desemvolverdor Felipe da DIO
 
 Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
