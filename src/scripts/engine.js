@@ -80,7 +80,7 @@ function addListenerHitbox() {
                 state.values.result++;
                 state.view.score.textContent = state.values.result;
                 state.values.hitPosition = null;
-                playSound("Hit");
+                playSound("hit");
             }
         });
     });
